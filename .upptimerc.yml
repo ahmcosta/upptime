@@ -1,16 +1,10 @@
 # Change these first
-owner: ahmcosta # Your GitHub organization or username, where this repository lives
+owner: G6Tech # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: site11
-    url: http://54.166.88.8:80
-  - name: site12
-    url: http://54.166.88.8:81
-  - name: site21
-    url: http://54.221.110.227:80
-  - name: site22
-    url: http://54.221.110.227:81
+  - name: Esus Formosa
+    url: http://esus.formosa.carvalhoecunha.com.br:8080/esus
 
 status-website:
   baseUrl: /upptime
